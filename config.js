@@ -23,7 +23,7 @@ window.Config = {
     },    
     {
       text: 'GitHub',
-      url: 'https://github.com/Garbagehumanstudio'
+      url: 'https://github.com/GarbageHumanStudio'
     },
     {
       text: '博客',
