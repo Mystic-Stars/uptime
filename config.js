@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'GHS-Status',
+  SiteName: 'GHS Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
